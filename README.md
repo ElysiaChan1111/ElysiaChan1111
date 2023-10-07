@@ -21,7 +21,6 @@ int main(int argc, char const* argv[])
 <font color=#ffffff>
 
 - University student
-- Here's Frank, a student at [University of Southampton](https://www.southampton.ac.uk/), studying [mathematics and CS](https://www.southampton.ac.uk/courses/mathematics-with-computer-science-degree-bsc).
 - Contact me: elysia1111true@126.com
 
 <!---
