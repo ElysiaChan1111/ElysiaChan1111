@@ -13,7 +13,7 @@ int main(int argc, char const* argv[])
     RebuildIncarnation();
     return 0;
 }
-/* Such code is writen by miHoYo and HoYoVerse on its goods, I just copied it here. */
+/* Such code is writen by miHoYo/HoYoVerse on its goods, I just copied it here. */
 ```````
 
 <text>
